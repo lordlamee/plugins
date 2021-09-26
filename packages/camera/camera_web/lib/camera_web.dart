@@ -4,4 +4,5 @@
 
 library camera_web;
 
+export 'src/camera_service.dart';
 export 'src/camera_web.dart';
